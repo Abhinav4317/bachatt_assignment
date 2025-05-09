@@ -19,6 +19,7 @@ I attempted to deploy the application using Docker on Railway under a free-tier 
 ---
 
 ## Setting up DB to run locally:
+The major dependencies used were:**Spring Web**,**Spring Data JPA**,**MySQL Driver**,**Spring Boot DevTools**,**Validation** and project was initialized using Spring Initializr.
 
 To run the project locally, follow these steps to setup DB:
 
