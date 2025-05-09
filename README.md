@@ -18,9 +18,9 @@ I attempted to deploy the application using Docker on Railway under a free-tier 
 
 ---
 
-## Running Locally
+## Setting up DB to run locally:
 
-To run the project locally, follow these steps:
+To run the project locally, follow these steps to setup DB:
 
 ### 1. Create a MySQL Database
 You can use MySQL Workbench or any MySQL client to create a database.
